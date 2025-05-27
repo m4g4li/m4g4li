@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Graphic Designer and Front-end Web Developer.
 ---------------------------------------------------
 
-Me encuentro en constante experimentación y aprendizaje de nuevas tendencias y tecnologías emergentes, buscando formas innovadoras para enfrentar los desafíos creativos.
+I am constantly experimenting and learning about new trends and emerging technologies, seeking innovative ways to tackle creative challenges.
 
 * 🌍  I'm based in El Salvador
-* 🖥️  See my portfolio at [https://m4g4li.github.io/MAGALIBERGANZA/](http://https://m4g4li.github.io/MAGALIBERGANZA/)
+* 🖥️  See my portfolio at [https://m4g4li.github.io/MAGALIBERGANZA/](https://m4g4li.github.io/MAGALIBERGANZA/)
 * ✉️  You can contact me at [wagali.berganza@gmail.com](mailto:wagali.berganza@gmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on I’m looking to collaborate on web design projects, UI/UX improvements, and creative digital experiences.
